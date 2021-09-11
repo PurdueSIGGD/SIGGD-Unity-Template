@@ -13,3 +13,6 @@ General use:
   3) Check that your branch still works with the newest master changes
   4) Create a pull request from your branch into master
   5) These pull requests will be checked by one of the project leads and merged if able, if not, marge master into your own branch again and fix any conflicts
+
+Additional notes:
+  1) The GitIgnore is correct as of 9/11/2021 and will work for the 2021.x.xx versions of Unity. It is unlikely that it will change much, but if files are not being ignored properly, replace the code in the GitIgnore with the code here: https://github.com/github/gitignore/blob/master/Unity.gitignore
