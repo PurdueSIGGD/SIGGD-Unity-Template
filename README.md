@@ -1,2 +1,2 @@
-# SIGGD-2021
-The repository for The Purdue Association for Computing Machinery's  Special Interest Group for Game Design's 2021 video game project
+# SIGGD-Unity-Template
+Template for creating new Unity GitHub repositories. To start using this template, copy to a new repository, set up the repository locally on your computer, then create a new Unity project in the repository folder.
