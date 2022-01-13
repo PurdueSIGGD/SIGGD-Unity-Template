@@ -4,8 +4,9 @@ How to setup:
   1) Click the "Use this template" button to make your own duplicate repository on GitHub
   2) Download and setup the new reposotory to your computer (Using GitHub Desktop is reccomended)
   3) Create a new Unity project in the repository folder
-  4) Commit the changes to the Master branch
-  5) The repository should now be ready for use
+  4) Move the Unity project files so that they are not in a subfolder of the repository folder (the gitignore will not work otherwise)
+  5) Commit the changes to the Master branch
+  6) The repository should now be ready for use
 
 General use:
   1) Have members of your team each create branches for all new changes after this to avoid overwriting anyone's work
