@@ -16,11 +16,11 @@ How to use once setup:
   4) This should allow them to have a Unity project based on the repo and allow Git on their own computer to track their changes
 
 General GitHub suggestions:
-  2) Have members of your team each create branches for all new changes after this to avoid overwriting anyone's work
-  3) Once something on a branch is "done" pull the latest branches from master into your own branch
-  4) Check that your branch still works with the newest master changes
-  5) Create a pull request from your branch into master
-  6) These pull requests will be checked by one of the project leads and merged if able, if not, marge master into your own branch again and fix any conflicts
+  1) Have members of your team each create branches for all new changes after this to avoid overwriting anyone's work
+  2) Once something on a branch is "done" pull the latest branches from master into your own branch
+  3) Check that your branch still works with the newest master changes
+  4) Create a pull request from your branch into master
+  5) These pull requests will be checked by one of the project leads and merged if able, if not, marge master into your own branch again and fix any conflicts
 
 Additional notes:
   1) The GitIgnore is correct as of 9/15/2022 and should work for the 2022.x.xx versions of Unity. It is unlikely that it will change much, but if files are not being ignored properly, replace the code in the GitIgnore with the code here: https://github.com/github/gitignore/blob/master/Unity.gitignore (Also note that the GitIgnore will only work if the Unity project is at the top level of the repo, rather than in a subfolder).
